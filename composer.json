@@ -1,0 +1,15 @@
+{
+    "name": "madeindjs/cakephp-morrisjs",
+    "type": "cakephp-plugin",
+    "keywords": ["cakephp", "morrisjs", "charts", "plugin"],
+    "description": "A CakePHP plugin for creating Charts with Morris JS.",
+    "homepage": "http://github.com/madeindjs/cakephp-morrisjs",
+    "license": "GPL",
+    "require": {
+        "php": ">=5.3",
+        "composer/installers": "*"
+    },
+    "support": {
+        "issues": "https://github.com/scottharwell/GoogleCharts/issues"
+    }
+}
